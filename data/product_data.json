@@ -1,0 +1,42 @@
+[
+    {
+        "product": "UltraPhone X",
+        "price": 799,
+        "features": "6.5\" OLED display, 128GB storage, 12MP camera, Face Recognition",
+        "colors": "Black, Silver, Blue",
+        "availability": "In stock",
+        "warranty": "1-year limited warranty"
+    },
+    {
+        "product": "PowerBook Pro",
+        "price": 1299,
+        "features": "15.6\" Retina display, 512GB SSD, 16GB RAM, Intel i7 processor",
+        "colors": "Space Gray, Silver",
+        "availability": "In stock",
+        "warranty": "2-year limited warranty"
+    },
+    {
+        "product": "SmartWatch Elite",
+        "price": 349,
+        "features": "Heart rate monitor, GPS, 2-day battery life, Water resistant",
+        "colors": "Black, White, Red",
+        "availability": "Limited stock",
+        "warranty": "1-year limited warranty"
+    },
+    {
+        "product": "AudioPods Max",
+        "price": 199,
+        "features": "Noise cancellation, 24-hour battery life, Touch controls",
+        "colors": "White, Black",
+        "availability": "In stock",
+        "warranty": "1-year limited warranty"
+    },
+    {
+        "product": "HomeAssist Speaker",
+        "price": 129,
+        "features": "Voice assistant, Room-filling sound, Smart home controls",
+        "colors": "Charcoal, Sand",
+        "availability": "In stock",
+        "warranty": "1-year limited warranty"
+    }
+]

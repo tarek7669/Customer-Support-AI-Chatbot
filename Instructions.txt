@@ -1,0 +1,20 @@
+*************************************
+*                                   *
+*   HOW TO SETUP AND RUN THE AGENT  *
+*                                   *
+*************************************
+
+1. Prerequisites  
+    - Python 3.12.9
+
+2. Setup  
+    A. Navigate To The Project Folder
+    B. Open CMD
+    C. python -m venv venv
+    D. venv\Scripts\activate
+    E. pip install -r requirements.txt
+
+3. Run The Agent
+    A. Open CMD
+    B. python main.py
+    C. Congratulations! You are now talking with the Agent.

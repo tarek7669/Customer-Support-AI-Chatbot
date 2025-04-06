@@ -1,0 +1,22 @@
+[
+    {
+        "policy": "Shipping Policy",
+        "details": "Standard shipping (3-5 business days): $4.99\nExpress shipping (1-2 business days): $12.99\nFree standard shipping on orders over $50\nInternational shipping available to select countries for additional fee\nCurrently not shipping to P.O. boxes"
+    },
+    {
+        "policy": "Return Policy",
+        "details": "30-day return period for unused items in original packaging\nReturn shipping is free for defective products\n15% restocking fee may apply for opened items\nGift receipts allow returns for store credit only\nSpecial order items are non-returnable"
+    },
+    {
+        "policy": "Warranty Policy",
+        "details": "All electronics come with manufacturer's warranty\nExtended protection plans available at checkout\nWarranty does not cover accidental damage or water damage\nProof of purchase required for warranty service\nWarranty is void if product is modified or repaired by unauthorized persons"
+    },
+    {
+        "policy": "Payment Options",
+        "details": "All major credit cards accepted\nPaySecure digital wallet\nInstallment payment plans available on purchases over $300\nStore credit and gift cards\nNo checks or money orders accepted"
+    },
+    {
+        "policy": "Privacy Policy",
+        "details": "Customer information is never sold to third parties\nOpt-in required for marketing communications\nData is stored securely using industry-standard encryption\nCustomers can request deletion of personal information\nSee full privacy policy at company website"
+    }
+]
